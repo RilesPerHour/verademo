@@ -102,19 +102,19 @@
 		<dependency>
 			<groupId>org.mindrot</groupId>
 			<artifactId>jbcrypt</artifactId>
-			<version>0.3m</version>
+			<version>0.4</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.keycloak</groupId>
 			<artifactId>keycloak-saml-core</artifactId>
-			<version>1.8.1.Final</version>
+			<version>19.0.2</version>
 		</dependency>
 
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.48</version>
+			<version>8.0.28</version>
 		</dependency>
 
 		<dependency>
@@ -130,7 +130,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-collections4</artifactId>
-			<version>4.0</version>
+			<version>4.1</version>
 		</dependency>
 	</dependencies>
 
