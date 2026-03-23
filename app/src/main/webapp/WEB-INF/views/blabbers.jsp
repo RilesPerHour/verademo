@@ -41,6 +41,7 @@
 					<li role="presentation" class="active"><a href="blabbers">Blabbers</a></li>
 					<li role="presentation"><a href="profile">Profile</a></li>
 					<li role="presentation"><a href="tools">Tools</a></li>
+					<li role="presentation"><a href="facescan">WWE 2K26 Face Scan</a></li>
 					<li role="presentation"><a href="logout">Logout</a></li>
 				</ul>
 			</nav>
